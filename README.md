@@ -38,8 +38,8 @@ A local, AI-enhanced **Package Tracking Assistant** that allows users to manage 
 ### 📥 1. Clone the GitHub Repository
 
 
-git clone https://github.com/yashkulkarni9/package-tracker-mcp.git
-cd package-tracker-mcp
+- git clone https://github.com/yashkulkarni9/package-tracker-mcp.git
+- cd package-tracker-mcp
 
 ### 2. (Optional) Create and Activate a Virtual Environment
 - On macOS/Linux:
