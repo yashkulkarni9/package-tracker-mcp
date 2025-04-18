@@ -36,35 +36,39 @@ A local, AI-enhanced **Package Tracking Assistant** that allows users to manage 
 ## 🧪 How to Run This Project Locally
 
 ### 📥 1. Clone the GitHub Repository
-
-
-- git clone https://github.com/yashkulkarni9/package-tracker-mcp.git
-- cd package-tracker-mcp
-
+```
+git clone https://github.com/yashkulkarni9/package-tracker-mcp.git
+cd package-tracker-mcp
+```
 ### 2. (Optional) Create and Activate a Virtual Environment
 - On macOS/Linux:
+```
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
 - On Windows:
+```
 python -m venv .venv 
 .venv\Scripts\activate
-
+```
 ### 📦 3. Install the MCP CLI Tool
 - Ensure you're using Python 3.9+
 
 - Then run:
+```
 pip install mcp[cli]
-
+```
 - If you're using uv:
+```
 uv pip install mcp[cli]
-
+```
 
 
 ### ▶️ 4. Install & Register the MCP Server
 - Inside the project root directory, run:
+```
 mcp install main.py
-
+```
 - This registers your MCP server with Claude so it can be accessed from Claude's Developer Tools.
 
 ### 💬 5. Use the Server in Claude
