@@ -89,3 +89,19 @@ mcp install main.py
 - Check if I have any overdue deliveries
 
 - Give me a delivery summary
+
+### Project Output:
+- Successfully installed the MCP server "Package Tracker" in the Claude app environment:
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/1818f741-e9d8-407f-bae2-5738b1a7b8cb" />
+
+- Tools provided by the Model Context Protocol (MCP) server from the Claude app interface:
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/919edfb7-69b4-4001-bf30-9a7798876b35" />
+
+- List is empty initially before adding any packages:
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/04f99120-7850-4f01-a87e-ad381f8e4aec" />
+
+- Providing instruction to the MCP server for adding a new package named MacBook Pro from Amazon, including its tracking number and estimated time of arrival:
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/18d88f74-6fa4-4356-812b-89b74d8c3ba9" />
+
+- The list gets updated:
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/b3c045d3-98c7-4d6c-a5a1-d7b85ab550f8" />
